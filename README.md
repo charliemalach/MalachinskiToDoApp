@@ -87,8 +87,8 @@ Project Link: [https://github.com/charliemalach/MalachinskiToDoApp]([https://git
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-- [Android Studio]([https://www.python.org/](https://developer.android.com/studio))
-- [Java]([https://pandas.pydata.org/](https://www.java.com/en/))
+- [Android Studio](https://developer.android.com/studio)
+- [Java](https://www.java.com/en/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,5 +96,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [main]: ./image/main.jpg
 [main-screenshot]: ./image/main-screenshot.jpg
-[java-img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[java-img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/en/

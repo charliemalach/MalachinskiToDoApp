@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/charliemalach/BIOCHEM-Data-Mining">
+  <a href="https://github.com/charliemalach/MalachinskiToDoApp">
     <img src="./image/logo.png" alt="Logo" width="100" height="125">
   </a>
 
@@ -96,5 +96,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [main]: ./image/main.jpg
 [main-screenshot]: ./image/main-screenshot.jpg
-[java-img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[java-url]: [https://www.python.org/](https://www.java.com/en/)
+[java-img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[java-url]: https://www.java.com/en/

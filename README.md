@@ -77,7 +77,7 @@ My ToDo list Android app is a versatile tool that helps you stay organized and m
 
 Charlie Malachinski (Software Developer) - charlie.malachinski@valpo.edu
 
-Project Link: [https://github.com/charliemalach/MalachinskiToDoApp]([https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/MalachinskiToDoApp))
+Project Link: [https://github.com/charliemalach/MalachinskiToDoApp](https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/MalachinskiToDoApp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -94,8 +94,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[map]: ./image/map.jpg
-[main-screenshot]: ./image/main.jpg
+[main]: ./image/main.jpg
+[main-screenshot]: ./image/main-screenshot.jpg
 [java-img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [java-url]: [https://www.python.org/](https://www.java.com/en/)

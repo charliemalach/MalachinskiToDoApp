@@ -7,10 +7,10 @@
     <img src="./image/logo.png" alt="Logo" width="100" height="125">
   </a>
 
-  <h3 align="center">Bio Chem Data Mining</h3>
+  <h3 align="center">To Do Mobile Application</h3>
 
   <p align="center">
-    An exhaustive overview of the Bio Chem Data Mining Application
+    An exhaustive overview of the To Do Android Mobile Application
     <br />
   </p>
 </div>
@@ -36,15 +36,9 @@
 
 ## About The Project
 
-![Map of Data][map]
+![Main][main]
 
-Our project’s main focus was looking into the differences between Valparaiso’s
-Biochemistry program and comparisons to the biochemistry programs at other colleges and
-universities. Most importantly being schools with accredited biochemistry programs. To check
-whether a school has an accredited biochemistry program, we refer to the American Society for
-Biochemistry and Molecular Biology. For our purposes, we focused mainly on what differences
-Valparaiso could include in its biochemistry program. This same type of analysis could be run on different schools, and also on different programs other than biochemistry. Another key thing we took into consideration is that Valparaiso’s biochemistry program could, in addition to being different from accredited biochemistry programs, differ from general non-accredited biochemistry programs. If further expanded upon, this work could be used to improve academic programs. Theoretically, the use of this program could also help students accurately pick which school they want to attend based on the content of offered courses. Our learning objectives for this project prompted us to use Topic Modeling to extract important topics from sentences, and then be able to operationally define similarities and differences when it comes to comparing lists of topics. Using these definitions, we aimed to perform a statistical analysis between Valparaiso and accredited and non-accredited schools. We hypothesized that Valparaiso’s biochemistry
-was different from most accredited universities, and more akin to non-accredited universities
+Stay organized and accomplish your goals effortlessly with this powerful 'todo' list Android app. Designed to simplify your life, this app provides a user-friendly interface where you can create, manage, and prioritize your tasks with ease. Whether you're juggling work projects, personal errands, or academic assignments, this app ensures that no task slips through the cracks. With features like due date reminders, task categorization, and customizable notifications, staying on top of your to-do list has never been easier. Boost your productivity, reduce stress, and reclaim your time with this intuitive 'todo' list app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,7 +46,8 @@ was different from most accredited universities, and more akin to non-accredited
 
 These are the tools we utilized throughout the implementation of our application:
 
-- [![python][python-img]][python-url]
+- [![java][java-img]][java-url]
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,15 +55,7 @@ These are the tools we utilized throughout the implementation of our application
 
 ## Usage
 
-We ended up making a program that can create an LDA model that outputs a list of
-topics, as well as the TFIDF of course descriptions so that we could see how. We considered
-the terms used in Valparaiso University courses. Then, we looked at the terms that appeared
-more than once and used that to compare with the lists of important terms from the topics we
-generated from accredited and non-accredited schools. Because there were more of Valpo’s
-terms found in the list for non-accredited schools, we found that Valpo’s biochemistry program
-had more in common with the biochemistry programs of non accredited schools. This supports
-our original hypothesis that although Valpo’s biochemistry was different from accredited and
-non-accredited schools’ programs, it had more in common with non-accredited schools.
+My ToDo list Android app is a versatile tool that helps you stay organized and manage your tasks effectively. Whether you're a busy professional, a student, or simply someone with a lot on their plate, this app is designed to streamline your day-to-day activities. With a ToDo list app, you can create and organize your tasks in one central location. Simply input the tasks you need to accomplish, set due dates and priorities, and the app will keep track of everything for you. It eliminates the need for traditional pen and paper lists, ensuring that you never miss a deadline or forget an important task.
 
 ![Main Application][main-screenshot]
 
@@ -78,9 +65,9 @@ non-accredited schools’ programs, it had more in common with non-accredited sc
 
 ## Roadmap
 
-- [x] We want to use topic modeling extract important topics from sentences
-- [x] We want to able to operationally define similar and different when it comes to comparing lists of topics
-- [x] Using these definitions, we aim to perform statistical analysis between Valparaiso, and accredited and non-accredited schools
+- [x] Allow users to add tasks.
+- [x] Allow users to mark tasks as completed.
+- [x] Allow users to rotate screen while retaining proper functionality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +77,7 @@ non-accredited schools’ programs, it had more in common with non-accredited sc
 
 Charlie Malachinski (Software Developer) - charlie.malachinski@valpo.edu
 
-Project Link: [https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/BIOCHEM-Data-Mining)
+Project Link: [https://github.com/charliemalach/MalachinskiToDoApp]([https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/MalachinskiToDoApp))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,18 +87,8 @@ Project Link: [https://github.com/charliemalach/BIOCHEM-Data-Mining](https://git
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-- [Python](https://www.python.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Nltk](https://www.nltk.org/)
-- [Regular Expression (re)](https://docs.python.org/3/library/re.html)
-- [Numpy](https://numpy.org/)
-- [Matplotlib.pylplot](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [LDA (LatentDirichletAllocation)](http://scikit-learn.sourceforge.net/stable/modules/generated/sklearn.lda.LDA.html)
-- [pyLDAvis](https://github.com/bmabey/pyLDAvis)
-- [Warnings](https://docs.python.org/3/library/warnings.html)
-- [Pickle](https://docs.python.org/3/library/pickle.html)
-- [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+- [Android Studio]([https://www.python.org/](https://developer.android.com/studio))
+- [Java]([https://pandas.pydata.org/](https://www.java.com/en/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,5 +97,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [map]: ./image/map.jpg
 [main-screenshot]: ./image/main.jpg
-[python-img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[python-url]: https://www.python.org/
+[java-img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[java-url]: [https://www.python.org/](https://www.java.com/en/)

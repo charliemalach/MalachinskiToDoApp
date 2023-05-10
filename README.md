@@ -47,7 +47,6 @@ Stay organized and accomplish your goals effortlessly with this powerful 'todo' 
 These are the tools we utilized throughout the implementation of our application:
 
 - [![java][java-img]][java-url]
-- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +76,7 @@ My ToDo list Android app is a versatile tool that helps you stay organized and m
 
 Charlie Malachinski (Software Developer) - charlie.malachinski@valpo.edu
 
-Project Link: [https://github.com/charliemalach/MalachinskiToDoApp](https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/MalachinskiToDoApp)
+Project Link: [https://github.com/charliemalach/MalachinskiToDoApp](https://github.com/charliemalach/MalachinskiToDoApp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
